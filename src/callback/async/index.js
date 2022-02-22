@@ -32,3 +32,4 @@ console.log('Before 1');
 anotherFunction();
 console.log('After 1');
 
+
